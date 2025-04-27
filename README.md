@@ -24,6 +24,14 @@ Technically, the project is built using core web technologies like HTML, CSS, an
 
 In conclusion, the Time Tracking and Productivity Analytics Chrome Extension is a simple yet highly effective productivity booster. It not only tracks time spent online but also transforms raw data into meaningful insights through elegant visuals and timely reminders. Easy to use and lightweight, this extension empowers users to stay conscious of their digital habits and steadily move towards a more productive lifestyle. Whether used individually or in a professional setting, it is an excellent tool for anyone aiming to make the most of their time online.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bee058d4-0bcd-4aab-9268-429ed082ef50)
+
+![Image](https://github.com/user-attachments/assets/b6b33808-e09d-4170-a307-a3ca5e2ed76c)
+
+![Image](https://github.com/user-attachments/assets/9a4260ce-3726-4c68-a621-7d479e3f4310)
+
 
 
 
